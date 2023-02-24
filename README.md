@@ -5,18 +5,17 @@
 - 😄 Pronouns: ele | dele
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true&&theme=transparent&hide_border=true" alt="LuCarlosMelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarlosmelo&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/LuCarlosMelo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true&&theme=transparent&hide_border=true" alt="LuCarlosMelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarlosmelo&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/LuCarlosMelo/chess-system-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=chess-system-java&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/LuCarlosMelo/jdbc-dao-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=jdbc-dao-demo&theme=transparent" />
 </a>
-
 
 
 <div style="display: inline_block"><br>
