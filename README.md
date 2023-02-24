@@ -5,18 +5,11 @@
 - 😄 Pronouns: ele | dele
 
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true" />
-  
-</picture>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true&&theme=tokyonight&hide_border=true" alt="LuCarlosMelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarlosmelo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
 
 
 <div style="display: inline_block"><br>
@@ -25,8 +18,10 @@
     <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-
+  
 </div>
+  
+  
   
   ##
  
