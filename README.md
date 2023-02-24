@@ -1,14 +1,21 @@
 ## Olá, eu sou o Luiz
 
 - 🔭 Estou buscando requalificação profissional como desenvolvedor
-- 🌱 Estou aprendendo Java com Spring Boot
+- 🌱 Estou aprendendo Java
 - 😄 Pronouns: ele | dele
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true&&theme=tokyonight&hide_border=true" alt="LuCarlosMelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarlosmelo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true&&theme=transparent&hide_border=true" alt="LuCarlosMelo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarlosmelo&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+#### Top Repositories
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=chess-system-java&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=jdbc-dao-demo&theme=transparent" />
+</a>
 
 
 
