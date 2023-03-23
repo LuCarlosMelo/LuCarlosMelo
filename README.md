@@ -1,7 +1,7 @@
 ## Olá, eu sou o Luiz
 
 - 🔭 Estou buscando requalificação profissional como desenvolvedor
-- 🌱 Estou aprendendo Java
+- 🌱 Estou aprendendo Springboot com a linguagem Java.
 - 😄 Pronouns: ele | dele
 
 
