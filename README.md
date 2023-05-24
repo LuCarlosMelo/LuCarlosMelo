@@ -1,23 +1,15 @@
 ## Olá, eu sou o Luiz
 
 - 🔭 Estou buscando requalificação profissional como desenvolvedor
-- 🌱 Estou aprendendo Springboot com a linguagem Java.
-- 😄 Pronouns: ele | dele
 
-
-| <a href="https://github.com/LuCarlosMelo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucarlosmelo&show_icons=true&&theme=transparent&hide_border=true" alt="LuCarlosMelo's github stats" /></a> | <a href="https://github.com/LuCarlosMelo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarlosmelo&layout=compact&theme=transparent&hide_border=true" /></a> |
+|[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuCarlosMelo&show_icons=true&theme=github_dark&hide=stars,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuCarlosMelo&layout=donut&theme=github_dark&hide=Python)](https://github.com/anuraghazra/github-readme-stats#themes) |
 | ------------- | ------------- |
+
 
 #### <h3>Principais Repositorios</h3>
 
-<a href="https://github.com/LuCarlosMelo/dscatalog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=dscatalog&theme=transparent" />
-</a>
-<a href="https://github.com/LuCarlosMelo/jdbc-dao-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=jdbc-dao-demo&theme=transparent" />
-</a>
-
-
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=dscatalog&theme=github_dark)](https://github.com/lucarlosmelo/dscatalog) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=parrot-backend&theme=github_dark)](https://github.com/lucarlosmelo/parrot-backend)|
+| ------------- | ------------- |
 <div style="display: inline_block"><br>
   <h3>Principais Linguagens</h3>
   <img align="center" alt="icon-Java" height="40" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
