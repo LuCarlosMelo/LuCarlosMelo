@@ -2,13 +2,13 @@
 
 - 🔭 Estou buscando requalificação profissional como desenvolvedor
 
-|[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuCarlosMelo&show_icons=true&theme=github_dark&hide=stars,issues&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuCarlosMelo&layout=donut&theme=github_dark&hide=Python)](https://github.com/anuraghazra/github-readme-stats#themes) |
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuCarlosMelo&show_icons=true&theme=github_dark&hide=stars,issues&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuCarlosMelo&layout=normal&theme=github_dark&hide=Python&hide_border=true)](https://github.com/anuraghazra/github-readme-stats#themes) 
 | ------------- | ------------- |
 
 
 #### <h3>Principais Repositorios</h3>
 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=dscatalog&theme=github_dark)](https://github.com/lucarlosmelo/dscatalog) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=parrot-backend&theme=github_dark)](https://github.com/lucarlosmelo/parrot-backend)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=dscatalog&theme=github_dark&hide_border=true)](https://github.com/lucarlosmelo/dscatalog) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=parrot-backend&theme=github_dark&hide_border=true)](https://github.com/lucarlosmelo/parrot-backend)|
 | ------------- | ------------- |
 <div style="display: inline_block"><br>
   <h3>Principais Linguagens</h3>
