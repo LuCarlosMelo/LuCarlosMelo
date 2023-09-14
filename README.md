@@ -10,7 +10,9 @@
 
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=dscatalog&theme=github_dark&hide_border=true)](https://github.com/lucarlosmelo/dscatalog) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucarlosmelo&repo=parrot-backend&theme=github_dark&hide_border=true)](https://github.com/lucarlosmelo/parrot-backend)|
 | ------------- | ------------- |
-<div style="display: inline_block"><br>
+
+<br>
+<div style="display: inline_block">
   <h3>Principais Linguagens</h3>
   <img align="center" alt="icon-Java" height="40" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="icon-Spring" height="40" width="40" hspace="5" src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667">
@@ -19,7 +21,7 @@
     <img align="center" alt="icon-Js" height="40" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       
 </div>
-
+<br>
 <div>
   <h3>Principais Ferramentas</h3>
       <img align="center" alt="icon-git" height="40" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -30,12 +32,21 @@
       <img align="center" alt="icon-h2" height="40" width="40" hspace="5" src="https://camo.githubusercontent.com/a56862ff0dd4217a3509e505edcbdd0c46febb51d46a4462bd968d3ea3e66c5b/687474703a2f2f683264617461626173652e636f6d2f68746d6c2f696d616765732f68322d6c6f676f2d322e706e67">
       <img align="center" alt="icon-vscoud" height="40" width="40" hspace="5" src="https://camo.githubusercontent.com/2c2e35019ce9c1caf11d53c1c655e6dd4ca31a5a1b8c582bdfe740f512522af1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f35313270782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e673f3230323130383034323231353139">
 </div>
-  
-  
-  
-  ##
- 
+<br>
+<div>
+  <h3>Formação</h3>
+          <p>Análise e Desenvolvimento de Sistemas - Concluído - Universidade Estácio de Sá</p>
+          <p>Técnico em Desenvolvimento de Sistemas - Cursando - ETEPAC</p>  
+  <br>      
+  <h3>Cursos Complementares</h3>
+          <p>Formação Java com POO - Nélio Alves</p>
+          <p>Bootcamp Orange Tech + | Backend | Springboot - Digital Innovation One</p>
+          <p>Santander Bootcamp 2023 | FullStack | Spring + Angular - Digital Innovation One</p>
+</div>
+ <br>
 <div> 
+  <h3>Contate-me</h3>
+  
   <a href = "mailto:luizcapeme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucarlosmelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
